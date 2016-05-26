@@ -1,0 +1,1 @@
+﻿This is a where the report file will be stored after a succesfull run of the script.
